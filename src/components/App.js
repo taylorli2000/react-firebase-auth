@@ -16,7 +16,7 @@ function App() {
       style={{ minHeight: "100vh" }}
     >
       <div className="w-100" style={{ maxWidth: "400px" }}>
-        <Router>
+        <Router basename="/react-firebase-auth">
           <AuthProvider>
             <Switch>
               <PrivateRoute exact path="/" component={Dashboard} />

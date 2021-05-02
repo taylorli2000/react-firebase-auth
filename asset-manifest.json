@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-firebase-auth/static/js/main.9a21f129.chunk.js",
-    "main.js.map": "/react-firebase-auth/static/js/main.9a21f129.chunk.js.map",
+    "main.js": "/react-firebase-auth/static/js/main.1986b07a.chunk.js",
+    "main.js.map": "/react-firebase-auth/static/js/main.1986b07a.chunk.js.map",
     "runtime-main.js": "/react-firebase-auth/static/js/runtime-main.04dd7698.js",
     "runtime-main.js.map": "/react-firebase-auth/static/js/runtime-main.04dd7698.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-firebase-auth/static/css/2.4c97ca4f.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.04dd7698.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.920993f8.chunk.js",
-    "static/js/main.9a21f129.chunk.js"
+    "static/js/main.1986b07a.chunk.js"
   ]
 }
